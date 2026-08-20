@@ -1,4 +1,4 @@
-## Hey there — Professor Willy here. 👋
+## Hey there — Hot-Coco here. 👋
 
 <table width="100%">
   <tr>
@@ -20,9 +20,9 @@ I build local-first AI tools, open-source libraries, and polished frontend exper
 
 - Creator of **[Skadoosh](https://github.com/Hot-Coco/Skadoosh)**, a lightning-fast local voice agent framework in Rust — VAD → Whisper STT → streaming LLM → ONNX TTS, with real barge-in, sub-150ms latency, and `#![forbid(unsafe_code)]`. Published on [crates.io](https://crates.io/crates/skadoosh). Dual-licensed MIT / Apache-2.0.
 
-- Creator of **[beaned-charts](https://github.com/Hot-Coco/beaned-charts)**, a beautiful SVG chart library with Bar, Line, Pie, and Donut charts, advanced color palettes, always-visible tooltips, and React components. Published on [npm](https://www.npmjs.com/package/beaned-charts) (v3.3.2) with 8 GitHub stars.
-
 - Contributor to **[stickee](https://github.com/Hot-Coco/stickee)**, a modern desktop sticky-note application built with Tauri, React, TypeScript, and Supabase — featuring encrypted cloud sync, checklists, emoji reactions, and 60+ font choices.
+
+- Creator of **[beaned-charts](https://github.com/Hot-Coco/beaned-charts)**, a beautiful SVG chart library with Bar, Line, Pie, and Donut charts, advanced color palettes, always-visible tooltips, and React components. Published on [npm](https://www.npmjs.com/package/beaned-charts) (v3.3.2) with 8 GitHub stars.
 
 - Built **[YellowRoute](https://github.com/Hot-Coco/YellowRoute)**, a fully responsive one-page website for Miami Kids Buses, a school bus transportation company serving South Florida.
 
