@@ -1,188 +1,70 @@
-# 👋 Hey there — Professor Willy here.
+## Hey there — Professor Willy here. 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&lines=Lightning-fast+voice+agents;Beautiful+SVG+charts;Rust+%7C+TypeScript+%7C+Web;Good+day+to+y'all+%F0%9F%98%89" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Hot-Coco/Skadoosh"><img src="https://img.shields.io/badge/Skadoosh-v0.5.0-%23FF6B35?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="https://www.npmjs.com/package/beaned-charts"><img src="https://img.shields.io/npm/v/beaned-charts?style=for-the-badge&logo=npm&logoColor=white&label=NPM&labelColor=1a1a2e&color=45b7d1" /></a>
-  <a href="https://github.com/Hot-Coco"><img src="https://img.shields.io/github/followers/Hot-Coco?style=for-the-badge&logo=github&logoColor=white&label=followers&labelColor=1a1a2e&color=4ecdc4" /></a>
-</p>
-
----
-
-## 🧪 What I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ [Skadoosh](https://github.com/Hot-Coco/Skadoosh)
-*A modular, lightning-fast local voice agent framework in Rust*
-
-```mermaid
-graph LR
-    MIC[Mic 🎤] --> VAD[Silero VAD]
-    VAD --> STT[Whisper STT]
-    STT --> LLM[LLM Stream]
-    LLM --> SPLIT[Clause Split]
-    SPLIT --> TTS[Kokoro TTS]
-    TTS --> SPKR[Speaker 🔊]
-    VAD -.->|barge-in| CANCEL[CANCEL TURN]
-    CANCEL -.-> LLM
-    CANCEL -.-> TTS
-```
-
-> **Sub-150ms** from end-of-speech to first audio. `#![forbid(unsafe_code)]`.  
-> Published on [crates.io](https://crates.io/crates/skadoosh) · MIT OR Apache-2.0
-
-</td>
-<td width="50%">
-
-### 📊 [beaned-charts](https://github.com/Hot-Coco/beaned-charts)
-*Beautiful SVG chart library — Bar, Line, Pie & Donut*
-
-```javascript
-const { BarChart, LineChart, PieChart } = require('beaned-charts');
-
-const chart = new PieChart(data, {
-  theme: 'dark',
-  holeSize: 0.3,       // donut style
-  explodeSlices: true,
-  hoverEffects: true
-});
-
-document.body.innerHTML += chart.render();
-```
-
-> **8 ⭐** on GitHub · Published on [npm](https://www.npmjs.com/package/beaned-charts) as `beaned-charts@3.3.2`  
-> Pure SVG · Dark/Light themes · React components · Always-visible tooltips
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>Building voice agents, charts, and whatever else seems fun.</strong> Rust · TypeScript · Web.
+    </td>
+    <td align="right">
+      <a href="https://github.com/Hot-Coco">GitHub</a> ·
+      <a href="https://crates.io/crates/skadoosh">crates.io</a> ·
+      <a href="https://www.npmjs.com/package/beaned-charts">npm</a> ·
+      <a href="https://github.com/RappleML">@RappleML</a>
+    </td>
+  </tr>
 </table>
 
----
+I build local-first AI tools, open-source libraries, and polished frontend experiences.
 
-## 🗂️ All Projects
+### Main Projects
 
-| Project | Stack | Stars | What it does |
-|---------|-------|-------|-------------|
-| **[Skadoosh](https://github.com/Hot-Coco/Skadoosh)** | `Rust` `ONNX` `Whisper` `Ollama` | ⭐ 1 | Voice agent pipeline: VAD → STT → LLM → TTS with barge-in |
-| **[beaned-charts](https://github.com/Hot-Coco/beaned-charts)** | `JS` `TS` `SVG` `React` | ⭐ 8 | Beautiful chart library with gradients, animations & tooltips |
-| **[YellowRoute](https://github.com/Hot-Coco/YellowRoute)** | `HTML` `CSS` `JS` | ⭐ 1 | Responsive school-bus transportation site for Miami Kids Buses |
-| **[stickee](https://github.com/Hot-Coco/stickee)** | `TS` `React` `Tauri` `Supabase` | ⭐ 1 | Desktop sticky-note app with encryption & cloud sync (fork) |
+- Creator of **[Skadoosh](https://github.com/Hot-Coco/Skadoosh)**, a lightning-fast local voice agent framework in Rust — VAD → Whisper STT → streaming LLM → ONNX TTS, with real barge-in, sub-150ms latency, and `#![forbid(unsafe_code)]`. Published on [crates.io](https://crates.io/crates/skadoosh). Dual-licensed MIT / Apache-2.0.
 
----
+- Creator of **[beaned-charts](https://github.com/Hot-Coco/beaned-charts)**, a beautiful SVG chart library with Bar, Line, Pie, and Donut charts, advanced color palettes, always-visible tooltips, and React components. Published on [npm](https://www.npmjs.com/package/beaned-charts) (v3.3.2) with 8 GitHub stars.
 
-## 🧬 Tech DNA
+- Contributor to **[stickee](https://github.com/Hot-Coco/stickee)**, a modern desktop sticky-note application built with Tauri, React, TypeScript, and Supabase — featuring encrypted cloud sync, checklists, emoji reactions, and 60+ font choices.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+- Built **[YellowRoute](https://github.com/Hot-Coco/YellowRoute)**, a fully responsive one-page website for Miami Kids Buses, a school bus transportation company serving South Florida.
+
+- Authored **97 merged commits** across all repos in 2026, shipping Skadoosh from scaffold to v0.5.0 in ~48 hours — including 15 cookbook examples, tool calling, multimodal support, echo cancellation, and GPU execution providers.
+
+### Skadoosh Pipeline
+
+```
+  Mic 🎤  →  Silero VAD  →  Whisper STT  →  LLM Stream  →  Clause Split  →  Kokoro TTS  →  Speaker 🔊
+                                      ↑  barge-in cancels turn (lock-free, ~5ms)  ↑
+```
+
+- **Streaming at every stage** — clauses are synthesized the moment they land; you never wait for the full reply.
+- **Pluggable engines** — swap any STT, LLM, or TTS backend via traits. Mock engines ship in-crate for headless testing.
+- **110+ tests** running fully headless in CI. Every modality combination supported: voice, text, files, and wav selftests.
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-161B22?style=flat&logo=rust&logoColor=F74C00" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tauri-161B22?style=flat&logo=tauri&logoColor=FFC131" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/ONNX-161B22?style=flat&logo=onnx&logoColor=005CED" alt="ONNX" />
+  <img src="https://img.shields.io/badge/Whisper-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="Whisper" />
+  <img src="https://img.shields.io/badge/Ollama-161B22?style=flat&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Supabase-161B22?style=flat&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SVG-161B22?style=flat&logo=svg&logoColor=FFB13B" alt="SVG" />
+  <img src="https://img.shields.io/badge/CSS-161B22?style=flat&logo=css3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-161B22?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
 </p>
 
----
+### Stats
 
-## 🔥 Activity
-
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Hot-Coco&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=4ecdc4&text_color=c9d1d9&ring_color=45b7d1&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hot-Coco&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&hide=html" alt="Top Languages" width="49%" />
 </p>
 
-<details>
-<summary><b>📈 Recent commit pulse</b></summary>
-<br>
-
-| When | Repo | What |
-|------|------|------|
-| Today | **Skadoosh** | `feat: v0.5.0 — 15 cookbook examples` |
-| Today | **Skadoosh** | `feat: v0.4.0 — misaki G2P, push-to-talk, echo cancellation, GPU, tools` |
-| Today | **Skadoosh** | `llm: tool calling support with SSE delta parsing` |
-| Today | **Skadoosh** | `config+llm: multimodal content types + --images flag` |
-| Yesterday | **Skadoosh** | `skadoosh v0.2.0: public SDK, pluggable engines, multi-modality CLI` |
-
-> **97 commits** across all repos in 2026 · Skadoosh built from scaffold to v0.5.0 in ~48 hours
-
-</details>
-
----
-
-## 🎯 Skadoosh by the Numbers
-
-```text
-  src/agent.rs        ← public SDK: Agent, AgentBuilder, AgentEvent
-  src/audio/          ← cpal ring buffer (lock-free, zero-alloc)
-  src/vad/            ← Silero VAD v5 + segmenter state machine
-  src/stt/            ← whisper-rs on dedicated thread
-  src/llm/            ← SSE streaming client + clause splitter
-  src/tts/            ← Kokoro-82M + misaki G2P + MockTts
-  src/tools/          ← ToolExecutor for agent tool-calling
-  src/pipeline.rs     ← orchestrator: 8 tasks, 9 channels, barge-in
-  cookbooks/          ← 15 runnable examples
-  tests/              ← 110+ headless tests
-
-  481,639 bytes of Rust    ·    3,579 bytes of Shell
-  v0.5.0    ·    CI passing    ·    Dual MIT / Apache-2.0
-```
-
----
-
-## 💻 Custom Code Corner
-
-*A little terminal widget I built — paste this into your browser console for a surprise:*
-
-```javascript
-// 🍫 Hot-Coco ASCII Art Generator
-((name, emoji) => {
-  const styles = [
-    'color: #FF6B35; font-size: 20px; font-weight: bold;',
-    'color: #4ecdc4; font-size: 16px;',
-    'color: #45b7d1; font-size: 16px;',
-  ];
-  console.log(`
-    ██╗  ██╗ ██████╗ ████████╗      ██████╗ ██████╗  ██████╗ ██████╗ 
-    ██║  ██║██╔═══██╗╚══██╔══╝     ██╔════╝██╔═══██╗██╔════╝██╔═══██╗
-    ███████║██║   ██║   ██║        ██║     ██║   ██║██║     ██║   ██║
-    ██╔══██║██║   ██║   ██║        ██║     ██║   ██║██║     ██║   ██║
-    ██║  ██║╚██████╔╝   ██║        ╚██████╗╚██████╔╝╚██████╗╚██████╔╝
-    ╚═╝  ╚═╝ ╚═════╝    ╚═╝         ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝
-  `, styles[0]);
-  console.log(`%c  ${emoji}  Hey there — ${name} here. Good day to y'all! ${emoji}`, styles[1]);
-  console.log('%c  Building voice agents, charts, and whatever else seems fun.', styles[2]);
-  console.log('%c  github.com/Hot-Coco  ·  crates.io/crates/skadoosh  ·  npm: beaned-charts', styles[2]);
-})('Professor Willy', '🧑‍🏫');
-```
-
----
-
-## 🏷️ Gist
-
 <p align="center">
-  <a href="https://gist.github.com/Hot-Coco">
-    <img src="https://img.shields.io/badge/Gists-1-blue?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <em>"A beautiful input box"</em> — because even the small things deserve polish.
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hot-Coco&style=flat-square&color=FF6B35&label=Profile+Views" alt="profile views" />
-</p>
-
-<p align="center">
-  <sub>🔭 Currently building at <a href="https://github.com/RappleML">@RappleML</a> · MIT & Apache-2.0 licensed · Open to collaborations</sub>
+  <img src="https://count.getloli.com/@:Hot-Coco" alt="Profile views" />
 </p>
