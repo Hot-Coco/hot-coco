@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>Building voice agents, charts, and whatever else seems fun.</strong> Rust · TypeScript · Web.
+      <strong>Building voice agents, charts, and whatever else seems fun.</strong>
     </td>
     <td align="right">
       <a href="https://github.com/Hot-Coco">GitHub</a> ·
