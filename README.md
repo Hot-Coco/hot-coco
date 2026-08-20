@@ -26,17 +26,6 @@ I build local-first AI tools, open-source libraries, and polished frontend exper
 
 - Authored **97 merged commits** across all repos in 2026, shipping Skadoosh from scaffold to v0.5.0 in ~48 hours — including 15 cookbook examples, tool calling, multimodal support, echo cancellation, and GPU execution providers.
 
-### Skadoosh Pipeline
-
-```
-  Mic 🎤  →  Silero VAD  →  Whisper STT  →  LLM Stream  →  Clause Split  →  Kokoro TTS  →  Speaker 🔊
-                                      ↑  barge-in cancels turn (lock-free, ~5ms)  ↑
-```
-
-- **Streaming at every stage** — clauses are synthesized the moment they land; you never wait for the full reply.
-- **Pluggable engines** — swap any STT, LLM, or TTS backend via traits. Mock engines ship in-crate for headless testing.
-- **110+ tests** running fully headless in CI. Every modality combination supported: voice, text, files, and wav selftests.
-
 ### Tech Stack
 
 <p>
@@ -54,15 +43,4 @@ I build local-first AI tools, open-source libraries, and polished frontend exper
   <img src="https://img.shields.io/badge/CSS-161B22?style=flat&logo=css3&logoColor=1572B6" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML-161B22?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
   <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
-</p>
-
-### Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hot-Coco&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=4ecdc4&text_color=c9d1d9&ring_color=45b7d1&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hot-Coco&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&hide=html" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://count.getloli.com/@:Hot-Coco" alt="Profile views" />
 </p>
