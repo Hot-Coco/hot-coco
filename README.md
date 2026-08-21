@@ -22,7 +22,7 @@ I build local-first AI tools, open-source libraries, and polished frontend exper
 
 - Creator of **[beaned-charts](https://github.com/Hot-Coco/beaned-charts)**, a beautiful SVG chart library with Bar, Line, Pie, and Donut charts, advanced color palettes, always-visible tooltips, and React components. Published on [npm](https://www.npmjs.com/package/beaned-charts) (v3.3.2)
 
-- Contributor to **[stickee](https://github.com/Hot-Coco/stickee)**, a modern desktop sticky-note application built with Tauri, React, TypeScript, and Supabase — featuring encrypted cloud sync, checklists, emoji reactions, and 60+ font choices.
+- Contributor to **[stickee](https://github.com/slammers001/stickee)**, a modern desktop sticky-note application built with Tauri, React, TypeScript, and Supabase — featuring encrypted cloud sync, checklists, emoji reactions, and 60+ font choices.
 
 - Authored **97 merged commits** across all repos in 2026, shipping Skadoosh from scaffold to v0.5.0 in ~48 hours — including 15 cookbook examples, tool calling, multimodal support, echo cancellation, and GPU execution providers.
 
