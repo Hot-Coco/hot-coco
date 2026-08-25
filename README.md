@@ -27,6 +27,8 @@ I build local-first AI tools, open-source libraries, and polished frontend exper
 
 - Authored **177 merged commits** across all repos in 2026, shipping Skadoosh from scaffold to v0.5.0 in ~48 hours — including 15 cookbook examples, tool calling, multimodal support, echo cancellation, and GPU execution providers.
 
+- Soon to be created: Hypno: Faster, Smaller, and better Unsloth for the world. (Star my Readme if you show interest 🐧)
+
 ### Tech Stack
 
 <p>
