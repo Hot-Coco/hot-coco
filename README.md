@@ -18,16 +18,16 @@ I build local-first AI tools, open-source libraries, and polished frontend exper
 
 ### Main Projects
 
-- Creator of **[Skadoosh](https://github.com/Hot-Coco/Skadoosh)**, a lightning-fast local voice agent framework in Rust — VAD → Whisper STT → streaming LLM → ONNX TTS, and more amazing features. Published on [crates.io](https://crates.io/crates/skadoosh). [🛑DEPRECATION POSSIBILITY](https://github.com/Hot-Coco/Skadoosh/discussions/6)
-
+- Creator of **[Skadoosh](https://github.com/Hot-Coco/Skadoosh)**, a lightning-fast local voice agent framework in Rust — VAD → Whisper STT → streaming LLM → ONNX TTS, and more amazing features. Published on [crates.io](https://crates.io/crates/skadoosh). Save it from deprecation 👉 [DEPRECATION](https://github.com/Hot-Coco/Skadoosh/discussions/6)
 
 - Creator of **[Raisin-4B](https://huggingface.co/RappleML/Raisin-4B)**, Raisin-4B is a lightweight (~3.8B parameter), long-context language model fine-tuned and merged by Rapple ML. Raisin-4B generates explicit `<think> </think>` Chain-of-Thought (CoT) traces before delivering the final output.
 
 - Contributor to **[stickee](https://dub.sh/stickee)**, a modern desktop sticky-note application built with Tauri, React, TypeScript, and Supabase — featuring encrypted cloud sync, checklists, emoji reactions, and 60+ font choices.
 
+- **Hypnotizer**: Run local LLMs faster, smarter, and more efficiently with Hypnotizer. (Soon 😵‍💫)
+
 - Authored **177 merged commits** across all repos in 2026, shipping Skadoosh from scaffold to v0.5.0 in ~48 hours — including 15 cookbook examples, tool calling, multimodal support, echo cancellation, and GPU execution providers.
 
-- Soon to be created: Hypno: Faster, Smaller, and better Unsloth for the world. (Star my Readme if you show interest 🐧)
 
 ### Tech Stack
 
