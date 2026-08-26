@@ -24,7 +24,7 @@ I build local-first AI tools, open-source libraries, and polished frontend exper
 
 - Contributor to **[stickee](https://dub.sh/stickee)**, a modern desktop sticky-note application built with Tauri, React, TypeScript, and Supabase — featuring encrypted cloud sync, checklists, emoji reactions, and 60+ font choices.
 
-- **Hypnotizer**: Run local LLMs faster, smarter, and more efficiently with Hypnotizer. (Soon 😵‍💫)
+- Creator of **[Hypno](https://github.com/HypnotizerAI/hypno)**: Run AI models faster, smarter, and better with Hypno, replacing GGUF and running on your CPU. 50–200× faster to load, same inference speed, smaller RAM footprint than regular GGUF!
 
 - Authored **177 merged commits** across all repos in 2026, shipping Skadoosh from scaffold to v0.5.0 in ~48 hours — including 15 cookbook examples, tool calling, multimodal support, echo cancellation, and GPU execution providers.
 
