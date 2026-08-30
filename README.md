@@ -20,7 +20,7 @@ I build local-first AI tools, open-source libraries, and polished frontend exper
 
 - Creator of **[Raisin-4B](https://huggingface.co/RappleML/Raisin-4B)**, Raisin-4B is a lightweight (~3.8B parameter), long-context language model fine-tuned and merged by Rapple ML. Raisin-4B generates explicit `<think> </think>` Chain-of-Thought (CoT) traces before delivering the final output.
 
-- Contributor to **[stickee](https://dub.sh/stickee)**, a modern desktop sticky-note application built with Tauri, React, TypeScript, and Supabase — featuring encrypted cloud sync, checklists, emoji reactions, and 60+ font choices.
+- Contributor to **[stickee](https://github.com/slammers001/stickee)**, a modern desktop sticky-note application built with Tauri, React, TypeScript, and Supabase — featuring encrypted cloud sync, checklists, emoji reactions, and 60+ font choices.
 
 - Creator of **[Hypno](https://github.com/HypnotizerAI/hypno)**: Run AI models faster, smarter, and better with Hypno, replacing GGUF and running on your CPU. 50–200× faster to load, same inference speed, smaller RAM footprint than regular GGUF! (🛑NOTE: VERY UNSTABLE)
 
