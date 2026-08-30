@@ -24,9 +24,6 @@ I build local-first AI tools, open-source libraries, and polished frontend exper
 
 - Creator of **[Hypno](https://github.com/HypnotizerAI/hypno)**: Run AI models faster, smarter, and better with Hypno, replacing GGUF and running on your CPU. 50–200× faster to load, same inference speed, smaller RAM footprint than regular GGUF! (🛑NOTE: VERY UNSTABLE)
 
-- Authored **177 merged commits** across all repos in 2026, shipping Skadoosh from scaffold to v0.5.0 in ~48 hours — including 15 cookbook examples, tool calling, multimodal support, echo cancellation, and GPU execution providers.
-
-
 ### Tech Stack
 
 <p>
