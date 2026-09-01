@@ -18,7 +18,7 @@
 
 ## What I'm Doing
 
-- **Vibe Coding** - Setting off autonomous agents running away like they are time bombs 💣.
+- **Vibe Coding** - Setting off autonomous agents.
 - **GitHub Actions** - Constantly hitting the limits 😭.
 - **Research** - Deep Researching the best tools to use!
 - **Kimi.ai** - Trying to not see the _Too many people chatting..._ message.
