@@ -12,10 +12,6 @@
 - 😏 **SimpleChat-135M** Don't ruin your laptop just for a chatbot!
   
 
-## GitHub Activity (Soon to be more languages 🤣)
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/languages/commits?username=TheLimeDev&hide_border=true)
-
 ## What I'm Doing
 
 - **Vibe Coding** - Setting off autonomous agents.
