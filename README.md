@@ -5,11 +5,11 @@
 - 🍋‍🟩 **Lime** The agentic harness for coding agents.
 - 😏 **SimpleChat-135M** Don't ruin your laptop just for a chatbot!
 - 🌌 **Milky-Way** See how the AI answers back in a real time, visual graph.
-- 🍚 **PokeBowl** Make all coding agents autonomous with background inferencing.
 - 🐯 **Tiger Team** Get your app tested by _real_ tigers!
 
 ## Current Projects
 - 😏 **SimpleChat-135M** Don't ruin your laptop just for a chatbot!
+- 🍚 **PokeBowl** Make all coding agents autonomous with background inferencing. (DONE!)
   
 
 ## What I'm Doing
