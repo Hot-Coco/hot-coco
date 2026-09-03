@@ -1,18 +1,131 @@
-# Hi, I'm TheLimeDev 👋
+<table width="100%">
+<tr>
+<td align="left">
+<strong>AI Engineer / Developer.</strong> Building, breaking, and shipping agentic systems.
+</td>
+<td align="right">
+<a href="https://github.com/TheLimeDev">GitHub</a> ·
+<a href="https://github.com/TheLimeDev/PokeBowl">PokeBowl</a> ·
+<a href="https://github.com/TheLimeDev/SimpleChat-135M">SimpleChat-135M</a>
+</td>
+</tr>
+</table>
 
-## Future projects
+I build **AI-native developer tools, lightweight agentic systems, open-source infrastructure, and creative engineering products.**
 
-- 🍋‍🟩 **Lime** The agentic harness for coding agents.
-- 😏 **SimpleChat-135M** Don't ruin your laptop just for a chatbot!
-- 🌌 **Milky-Way** See how the AI answers back in a real time, visual graph.
-- 🐯 **Tiger Team** Get your app tested by _real_ tigers!
+### Open Source, Engineering & Projects
 
-## Current Projects
-- 😏 **SimpleChat-135M** Don't ruin your laptop just for a chatbot!
+- Creator of **[PokeBowl](https://github.com/TheLimeDev/PokeBowl)** — enabling all coding agents to operate autonomously with seamless background inferencing.
+- Developer of **[SimpleChat-135M](https://github.com/TheLimeDev/SimpleChat-135M)** — a highly optimized, lightweight chatbot designed to run efficiently without draining your laptop's resources.
+- Architect of **[Lime](https://github.com/TheLimeDev/Lime)** *(In Development)* — the agentic harness designed to streamline and empower next-generation coding agents.
+- Active contributor to open-source ecosystems, with contributions to projects like **[stickee](https://github.com/slammers001/stickee)** and **[beaned-charts](https://github.com/TheLimeDev/beaned-charts)**.
+- Exploring real-time AI visualization with **[Milky-Way](https://github.com/TheLimeDev/Milky-Way)** *(Concept)* — visualizing AI responses in real-time graph structures.
+- **Tiger Team** *(Concept)* — getting apps tested by *real* tigers (and rigorous automated testing pipelines).
 
-## What I Made
-- 🍚 **PokeBowl** Make all coding agents autonomous with background inferencing.  (Check it out!)
+<div align="center">
 
-## Latest Blog Posts
-I do not actually have a blog yet! But I _will_ make one. For sure.
+## Building With
 
+**Leveraging some of the most powerful tools and frameworks in AI and open source.**
+
+<table width="100%" cellpadding="3" cellspacing="0">
+<tr>
+
+<td align="center" width="20%" valign="top">
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://python.org">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" height="28" alt="Python">
+</a>
+</td>
+</tr>
+</table>
+<b>Python</b><br>
+<a href="https://python.org">Official Website</a>
+</td>
+
+<td align="center" width="20%" valign="top">
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://huggingface.co/">
+<img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" height="28" alt="Hugging Face">
+</a>
+</td>
+</tr>
+</table>
+<b>Hugging Face</b><br>
+<a href="https://huggingface.co/">Model Hub</a>
+</td>
+
+<td align="center" width="20%" valign="top">
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://pytorch.org/">
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" height="28" alt="PyTorch">
+</a>
+</td>
+</tr>
+</table>
+<b>PyTorch</b><br>
+<a href="https://pytorch.org/">Documentation</a>
+</td>
+
+<td align="center" width="20%" valign="top">
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" height="28" alt="GitHub">
+</a>
+</td>
+</tr>
+</table>
+<b>GitHub</b><br>
+<a href="https://github.com/TheLimeDev">Profile</a>
+</td>
+
+<td align="center" width="20%" valign="top">
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://www.docker.com/">
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" height="28" alt="Docker">
+</a>
+</td>
+</tr>
+</table>
+<b>Docker</b><br>
+<a href="https://www.docker.com/">Official Website</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+### Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Google_Cloud-161B22?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+</p>
