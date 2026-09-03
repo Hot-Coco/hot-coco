@@ -22,8 +22,6 @@ I build **AI-native developer tools, lightweight agentic systems, open-source in
 - Exploring real-time AI visualization with **[Milky-Way](https://github.com/TheLimeDev/Milky-Way)** *(Concept)* — visualizing AI responses in real-time graph structures.
 - **Tiger Team** *(Concept)* — getting apps tested by *real* tigers (and rigorous automated testing pipelines).
 
-<div align="center">
-
 
 ### Tech Stack
 
